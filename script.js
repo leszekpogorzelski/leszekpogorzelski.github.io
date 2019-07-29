@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  const apiRoot = 'http://https://git.heroku.com/quiet-caverns-50867.git/v1/';
+  const apiRoot = 'https://git.heroku.com/quiet-caverns-50867.git/v1/';
   const trelloApiRoot = 'https://git.heroku.com/quiet-caverns-50867.git/v1/trello/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
